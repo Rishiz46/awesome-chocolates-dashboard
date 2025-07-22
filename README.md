@@ -4,7 +4,7 @@ Power BI dashboard template analyzing sales of Awesome Chocolates.
 
 This Power BI dashboard analyzes the sales performance of a fictional brand, **Awesome Chocolates**, using data from a MySQL database. Built as part of my learning journey through Chandoo’s Free Data Analyst course on YouTube.
 
-![Dashboard Preview](Screenshot.png)
+![Dashboard Preview](Image.png)
 
 ## 🔍 Dashboard Features
 
@@ -28,7 +28,7 @@ This Power BI dashboard analyzes the sales performance of a fictional brand, **A
 ## 📁 Files
 
 - `awesome-chocolates-dashboard.pbit` – Power BI Template
-- `Screenshot.png` – Dashboard Preview
+- `Image` – Dashboard Preview
 
 ## 🔗 Connect With Me
 
