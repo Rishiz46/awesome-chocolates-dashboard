@@ -29,7 +29,7 @@ This Power BI dashboard analyzes the sales performance of a fictional brand, **A
 
 - `awesome-chocolates-dashboard.pbit` – Power BI Template
 - `Image` – Dashboard Preview
-
+- `awesome-chocolates-data.sql` - Dataset
 ## 🔗 Connect With Me
 
 - 🌐 [My Portfolio](https://your-portfolio-link.com)
