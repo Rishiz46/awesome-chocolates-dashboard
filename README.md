@@ -1,6 +1,6 @@
 # awesome-chocolates-dashboard
 Power BI dashboard template analyzing sales of Awesome Chocolates.
-# 🍫 Awesome Chocolates - Power BI Sales Dashboard
+# 🍫 Awesome Chocolates - Power BI Sales Performance Dashboard
 
 This Power BI dashboard analyzes the sales performance of a fictional brand, **Awesome Chocolates**, using data from a MySQL database. Built as part of my learning journey through Chandoo’s Free Data Analyst course on YouTube.
 
